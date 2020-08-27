@@ -4,9 +4,6 @@ import os
 import datetime as dt
 import getpass
 
-# utente = "yft0101"
-# password = "ft89268926"
-
 utente = input('Inserisci il nome utente: ')
 password = getpass.getpass()
 
